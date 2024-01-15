@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "502707272505",
+    "firebase_url": "https://travelmate-c4bd1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "travelmate-c4bd1",
+    "storage_bucket": "travelmate-c4bd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502707272505:android:83e4dccbec55dbf2d7c6e8",
+        "android_client_info": {
+          "package_name": "com.example.exploresphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2ZVPbYMDGjpYS9lf7ssPPkETCYpp8MFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
